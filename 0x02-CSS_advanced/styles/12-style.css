@@ -1,4 +1,4 @@
-/* Css file to style the Techium webpage */
+/*  Custom margin, More styling for section-title */
 
 html {
     scroll-behavior: smooth;
@@ -27,7 +27,7 @@ html {
     --section-header-align: center;
     --section-tagline-transform: uppercase;
     --section-title-margin: 0;
-    --section-title-color: color-black;
+    --section-title-color: var(--color-black);
 }
 
 body {
